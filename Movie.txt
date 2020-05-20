@@ -1,0 +1,9 @@
+This Means War,2012,Romantic comedy spy film,30.0,McG,Reese Witherspoon	Chris Pine	Tom Hardy	Til Schweiger,72
+Frozen II,2019,animated musical,60.0,Chris Buck	Jennifer Lee,Kristen Bell	Idina Menzel	Josh Gad	Jonathan Groff,15
+Bad Boys for Life,2020,Action,50.0,Adil El Arbi,Will Smith	Martin Lawrence	Vanessa Hudgens,98
+Star Wars The Rise of Skywalker,2019,Action,65.0,JJ Abrams,Carrie Fisher	Mark Hamill	Adam Driver	Daisy Ridley,42
+Black Panther,2018,Action,55.0,Ryan Coogler,Chadwick Boseman	Michael B Jordan,62
+A Star Is Born,2018,Drama,75.0,Bradley Cooper,Lady Gaga	Bradley Cooper	Sam Elliott,29
+Avengers Infinity War,2018,Action,66.0,Anthony Russo	Joe Russo,Robert Downey Jr	Chris Hemsworth	Mark Ruffalo	Chris Evans	Scarlett Johansson,33
+Wonder Woman,2017,Action,40.0,Patty Jenkins,Gal Gadot	Chris Pine,49
+

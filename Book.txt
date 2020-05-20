@@ -1,0 +1,12 @@
+To Kill a Mockingbird,Paperback,Harper Lee,8.970000267028809,55
+Ceremony,Paperback,Leslie Marmon Silko,16.200000762939453,44
+Things Fall Apart,Paperback,Chinua Achebe,11.680000305175781,94
+Fooled by Randomness,Paperback,Nassim Nicholas Taleb,19.200000762939453,32
+Breakthrough Advertising,eBook,Eugene Schwartz,18.5,64
+The Power of Full Engagement,eBook,Jim Loehr and Tony Schwartz,13.970000267028809,23
+A Tale of Two Cities,Paperback,Charles Dickens,6.980000019073486,65
+Harry Potter,Paperback,JK Rowling,11.390000343322754,43
+And Then There Were None,eBook,Agatha Christie,4.980000019073486,31
+The Alchemist,eBook,Paulo Coelho,8.970000267028809,63
+Anne of Green Gables,Paperback,Lucy Maud Montgomery,6.53000020980835,64
+

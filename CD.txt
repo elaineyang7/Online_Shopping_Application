@@ -1,0 +1,13 @@
+Abbey Road,Beatles,Rock,1969,36,17,11.380000114440918
+Adele 19,Adele,Pop,2008,34,12,22.700000762939453
+Adele 21,Adele,Pop,2011,35,11,10.270000457763672
+Adele 25,Adele,Pop,2015,24,11,9.8100004196167
+Taylor Swift,Taylor Swift,Country pop,2006,34,11,7.0
+Fearless,Taylor Swift,Country pop,2008,24,13,26.200000762939453
+Lover,Taylor Swift,Pop,2019,18,18,11.720000267028809
+Reputation,Taylor Swift,Electropop,2017,35,15,12.8100004196167
+1989,Taylor Swift,Pop,2014,23,13,16.700000762939453
+The Fame,Lady Gaga,Electropop,2008,24,14,10.720000267028809
+The Fame Monster,Lady Gaga,Electropop,2009,13,8,20.0
+Joanne,Lady Gaga,Country pop,2015,35,11,13.220000267028809
+
